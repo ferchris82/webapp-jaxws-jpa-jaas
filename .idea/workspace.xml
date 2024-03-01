@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="491ec04a-21c1-464c-962b-c6026c8bd6cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/models/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/models/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/services/ServicioWs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/services/CursoServicioWs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/services/ServicioWsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/services/CursoServicioWsImpl.java" afterDir="false" />
+    <list default="true" id="491ec04a-21c1-464c-962b-c6026c8bd6cb" name="Changes" comment="Versión 1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/repositories/CursoRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/repositories/CursoRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/services/CursoServicioWs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chrisferdev/webapp/jaxws/services/CursoServicioWs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jaxws/repositories/CursoRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jaxws/repositories/CursoRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jaxws/services/CursoServicioWs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/chrisferdev/webapp/jaxws/services/CursoServicioWs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-jaxws-jpa.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/webapp-jaxws-jpa.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-jaxws-jpa/WEB-INF/classes/org/chrisferdev/webapp/jaxws/repositories/CursoRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/webapp-jaxws-jpa/WEB-INF/classes/org/chrisferdev/webapp/jaxws/repositories/CursoRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-jaxws-jpa/WEB-INF/classes/org/chrisferdev/webapp/jaxws/services/CursoServicioWs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/webapp-jaxws-jpa/WEB-INF/classes/org/chrisferdev/webapp/jaxws/services/CursoServicioWs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ProjectsIntelliJ/webapp-jaxws-jpa&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ProjectsIntelliJ/cliente-ws-jpa&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
@@ -89,6 +86,18 @@
       <option name="presentableId" value="Default" />
       <updated>1709142518231</updated>
     </task>
+    <task id="LOCAL-00001" summary="Versión 1.0">
+      <created>1709146476325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709146476325</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Versión 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versión 1.0" />
   </component>
 </project>
