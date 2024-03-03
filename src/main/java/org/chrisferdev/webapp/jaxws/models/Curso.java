@@ -16,6 +16,7 @@ public class Curso {
     private String descripcion;
 
     //@XmlTransient
+    @Transient
     private String instructor;
 
     private Double duracion;
